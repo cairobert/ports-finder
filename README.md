@@ -1,4 +1,4 @@
 ports-finder
 ============
 
-simple ports scanner
+This gadget scans a host which ports are under listening state.
